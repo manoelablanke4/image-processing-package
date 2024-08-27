@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: image-processing-package
+Version: 0.0.1
+Summary: A small package for image processing
+Home-page: https://github.com/manoelablanke4/image-processing-package
+Author: Manoela Americo
+Author-email: up202201391@up.pt
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # package_name
 
 Description. 
@@ -26,3 +38,4 @@ Manoela Americo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
